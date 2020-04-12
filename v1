@@ -1,0 +1,5 @@
+cookie_amount=float(input("Enter number of cookies:" ))
+sugar=(1.5*cookie_amount)/48
+butter=(1*cookie_amount)/48
+flour=(2.75*cookie_amount)/48
+print ("You need", sugar, "cups of sugar,", butter, "cups of butter, and", flour, "cups of flour.")
